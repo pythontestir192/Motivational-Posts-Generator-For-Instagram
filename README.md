@@ -23,7 +23,7 @@ Below is a screenshot from my Instagram accounts geared at promoting personal mo
 ## Getting Started
 
 Clone:
-```git clone https://github.com/pythontester192/Motivational-Posts-Generator-For-Instagram.git```
+```git clone https://github.com/pythontestir192/Motivational-Posts-Generator-For-Instagram.git```
 
 Run the script:
 ```python post_generator.py```
